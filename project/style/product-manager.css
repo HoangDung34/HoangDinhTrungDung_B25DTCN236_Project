@@ -170,7 +170,6 @@ th {
     z-index: 99;
 }
 
-/* Modal */
 .modal {
     position: fixed;
     top: 50%;
@@ -182,7 +181,6 @@ th {
     z-index: 100;
 }
 
-/* Hidden */
 .hidden {
     display: none;
 }
@@ -191,7 +189,6 @@ th {
     padding: 20px;
 }
 
-/* Header */
 .modal-header {
     display: flex;
     justify-content: space-between;
@@ -203,7 +200,6 @@ th {
     cursor: pointer;
 }
 
-/* Body */
 .modal-body {
     margin-top: 15px;
     display: flex;
@@ -218,7 +214,6 @@ th {
     border: 1px solid #ddd;
 }
 
-/* Footer */
 .modal-footer {
     margin-top: 20px;
     display: flex;
